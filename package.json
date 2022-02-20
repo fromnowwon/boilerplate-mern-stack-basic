@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-		"start": "node server/index.js",
-		"backend": "nodemon server/index.js",
-		"frontend": "npm run front --prefix client",
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "concurrently \"npm run backend\" \"npm run start --prefix client\""
-	},
+    "start": "node server/index.js",
+    "backend": "nodemon server/index.js",
+    "frontend": "npm run front --prefix client",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"npm run backend\" \"npm run start --prefix client\""
+  },
   "author": "Chaewon J.",
   "license": "ISC"
 }
