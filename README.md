@@ -8,7 +8,6 @@
 각자 스타일에 맞게 커스텀해서 사용하길 추천합니다.
 <br />
 <br/>
-
 It is a boilerplate code made to reduce unnecessary time required for initial setting during development.
 <br/>
 **SCSS** language is used.
@@ -27,7 +26,6 @@ It is recommended to customize and use according to your style.
 
 루트 경로, client 경로에 필요한 npm 패키지를 설치해주세요.
 <br />
-
 Please install the necessary npm package for the root path and client path.
 
 <br />
@@ -44,7 +42,6 @@ module.exports = {
 
 루트 디렉토리에서 client와 server를 같이 실행해주세요.
 <br />
-
 Please run client and server together in the root directory.
 
 `cd ../`
